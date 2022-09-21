@@ -1,6 +1,6 @@
 # Tutorial on Responsive Design
 
-In this tutorial, I am going to show you how to develop a page using a *mobile-first, responsive design* using Bootstrap, a common used for website designs. I will assume you have already followed the previous [responsive design tutorial](https://github.com/BYU-CS-260/responsive-design) and will focus on using the [Bootstrap](https://getbootstrap.com) framework. You could follow a similar path using other frameworks, such as [Pure.css](https://purecss.io).
+In this tutorial, I am going to show you how to develop a page using a *mobile-first, responsive design* using Bootstrap, a common used for website designs. I will assume you have already followed the previous [responsive design tutorial](https://github.com/BYU-CS-260/responsive-design) and will focus on using the [Bootstrap](https://getbootstrap.com) framework. You could follow a similar path using other frameworks, such as [Pure.css](https://purecss.io). But use Boostrap so you are familiar with it.
 
 I showed you a pure CSS version in the first tutorial because (a) pure CSS websites are often lighter weight and Bootstrap is particularly large, which can slow down visitors to your websites, especially on mobile phones, and (b) it helps to see how responsive design works so you can understand what frameworks are doing for you.
 
