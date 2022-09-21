@@ -109,7 +109,7 @@ For the cover photo, we can use Bootstrap's `img-fluid` class to make the image 
 
 ```html
 <div class="photo">
-    <img src="/images/cover.jpg" class="img-fluid">
+    <img src="images/cover.jpg" class="img-fluid">
 </div>
 ```
 
@@ -139,7 +139,7 @@ with some CSS styles:
   background-color: #000;
   color: #fff;
   padding: 20px;
-  margin: 0px;
+  margin: 20px;
 }
 
 .special h3 {
@@ -158,13 +158,13 @@ For the dishes, we can reuse the `img-fluid` class:
 ```html
     <div class="dishes">
         <div class="dish">
-            <img src="/images/pizza.jpg" class="img-fluid">
+            <img src="images/pizza.jpg" class="img-fluid">
         </div>
         <div class="dish">
-            <img src="/images/pasta.jpg" class="img-fluid">
+            <img src="images/pasta.jpg" class="img-fluid">
         </div>
         <div class="dish">
-            <img src="/images/steak.jpg" class="img-fluid">
+            <img src="images/steak.jpg" class="img-fluid">
         </div>
     </div>
 ```
@@ -183,7 +183,7 @@ We can add our contact information the same way as before, while using the `img-
 <div class="contact">
     <h2>Contact Us</h2>
     <p>You can find us at 900 Astor Street, in downtown Astoria.</p>
-    <img src="/images/map.png" class="img-fluid">
+    <img src="images/map.png" class="img-fluid">
 </div>
 ```
 
@@ -232,13 +232,13 @@ Next, let's make the three dishes appear in a grid below our special. We could u
 ```html
     <div class="dishes row">
         <div class="dish col-md col-lg">
-            <img src="/images/pizza.jpg" class="img-fluid">
+            <img src="images/pizza.jpg" class="img-fluid">
         </div>
         <div class="dish col-md col-lg">
-            <img src="/images/pasta.jpg" class="img-fluid">
+            <img src="images/pasta.jpg" class="img-fluid">
         </div>
         <div class="dish col-md col-lg">
-            <img src="/images/steak.jpg" class="img-fluid">
+            <img src="images/steak.jpg" class="img-fluid">
         </div>
     </div>
 ```
